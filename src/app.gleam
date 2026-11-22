@@ -20,7 +20,7 @@ import parser
 import render
 import shape.{type Path}
 
-pub const public_url = ""
+pub const public_url = "https://omelette1.github.io/animator/"
 
 pub const include_app_in_gallery = False
 
